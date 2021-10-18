@@ -4,32 +4,32 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.login.LoginScreen">
+    tools:context=".ui.secondtask.SecondTask">
 
     <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
         android:weightSum="3"
         >
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="shahad"
+            android:text="Shahad"
             android:textSize="35sp"
             android:layout_weight="1"
             />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="ahmed"
+            android:text="Ahmed"
             android:textSize="35sp"
             android:layout_weight="1"
             />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="alshehri"
+            android:text="Alshehri"
             android:textSize="35sp"
             android:layout_weight="1"
             />
