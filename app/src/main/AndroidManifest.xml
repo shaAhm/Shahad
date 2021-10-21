@@ -10,6 +10,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Shahad">
         <activity
+            android:name=".ui.taskcircleimg.TaskCirImg"
+            android:exported="true" />
+        <activity
+            android:name=".ui.clearimg.ClearImg"
+            android:exported="true" />
+        <activity
+            android:name=".ui.circularImg.CircularImg"
+            android:exported="true" />
+        <activity
+            android:name=".ui.profiletest.ProfilTest"
+            android:exported="true" />
+        <activity
+            android:name=".ui.profile.Profile"
+            android:exported="true" />
+        <activity
+            android:name=".ui.register.Register"
+            android:exported="true" />
+        <activity
             android:name=".ui.secondtask.SecondTask"
             android:exported="true" />
         <activity
